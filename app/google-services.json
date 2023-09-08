@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314959715501",
+    "project_id": "fishy-8db69",
+    "storage_bucket": "fishy-8db69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314959715501:android:b29f341ea77a92ba707a24",
+        "android_client_info": {
+          "package_name": "com.example.fishy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314959715501-h3iphjibub3lbgnjosjs5u0jjv58qnd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_WtKsIstVZDJmM61SIaLoA0EpAsfqtgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314959715501-h3iphjibub3lbgnjosjs5u0jjv58qnd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
